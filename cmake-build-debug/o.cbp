@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="o"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="o">
+				<Option output="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/o" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/include"/>
+					<Add directory="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 o"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="o/fast">
+				<Option output="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/o" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/include"/>
+					<Add directory="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 o/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/Makefile">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/a.img">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/bochsrc">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/boot.asm">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/include/fat12hdr.inc">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/include/load.inc">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/include/pm.inc">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/boot/loader.asm">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/console.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/const.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/global.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/keyboard.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/keymap.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/proc.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/protect.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/proto.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/sconst.inc">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/string.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/tty.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/include/type.h">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/clock.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/console.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/global.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/i8259.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/kernel.asm">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/keyboard.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/main.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/printf.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/proc.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/protect.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/start.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/syscall.asm">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/tty.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/kernel/vsprintf.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/lib/klib.c">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/lib/kliba.asm">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/lib/string.asm">
+			<Option target="o"/>
+		</Unit>
+		<Unit filename="/home/waxnkw/NjuCourse/operationSystem/myOS/chapter7/o/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
